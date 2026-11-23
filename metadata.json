@@ -1,0 +1,6 @@
+{
+  "name": "Koreksi Lembar Jawab",
+  "description": "Aplikasi PWA koreksi lembar jawaban komputer (LJK) pilihan ganda otomatis langsung di perangkat menggunakan kamera atau foto tanpa akun dan tanpa internet.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
